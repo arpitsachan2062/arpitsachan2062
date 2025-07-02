@@ -6,7 +6,8 @@ My background in Java development and cloud infrastructure enables me to provide
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]www.linkedin.com/in/arpit-sachan-a13042295)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-sachan-a13042295)
+
 
 
 # 🐍 My Contributions:
