@@ -15,12 +15,15 @@
 
 
  
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsachan&show_icons=true&theme=default)
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpitsachan2062e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpitsachan2062&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsachan2062&theme=dark&hide_border=false&layout=compact)
+
 
 <h3><i>Interested in my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
@@ -58,4 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsachan&show_icons=true&theme=default)
+
