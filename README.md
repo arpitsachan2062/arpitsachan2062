@@ -4,7 +4,7 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-awasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]www.linkedin.com/in/arpit-sachan-a13042295) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakharawasthi_)
 
 
 # 🐍 My Contributions:
@@ -15,9 +15,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prakhar105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prakhar105e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpitsachan2062e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3><i>Interested in my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
@@ -28,21 +28,21 @@
 
 
 # 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=prakhar105&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arpitsachan2062&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=prakhar105&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arpitsachan2062&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakhar105&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arpitsachan2062&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
-**prakhar105/prakhar105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ARPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
