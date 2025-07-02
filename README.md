@@ -23,12 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpitsachan2062e&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsachan2062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3><i>Interested in my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-<p align="left">
-<a href="https://www.youtube.com/watch?v=QVop5w4hkmg" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ALEX&color=1a78f4&logo=Probot&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-<a href="https://youtube.com/shorts/iFf417xpYAM?feature=share" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bionics&color=E60012&logo=Ionic&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-<a href="https://www.youtube.com/shorts/fJ0_DC7wWqE" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Computer Vision&color=000000&logo=Apache Cassandra&logoColor=FFFFFF&label=" alt="adidas"/></a>
-</p>
 
 
 # 🔝 Top Contributed Repo:
