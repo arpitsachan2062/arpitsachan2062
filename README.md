@@ -15,7 +15,8 @@
 
 
  
-![Arpit's GitHub stats]![](https://github-readme-streak-stats.demolab.com?user=arpitsachan2062&theme=dark&hide_border=false)
+
+[](https://github-readme-streak-stats.demolab.com?user=arpitsachan2062&theme=dark&hide_border=false)
 
 
 # 📊 GitHub Stats:
