@@ -16,7 +16,7 @@
 (https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=CSS&logoColor=white) ![JIRA]
 (https://img.shields.io/badge/JIRA-%FF0000.svg?style=for-the-badge&logo=JIRA&logoColor=blue) ![GitLab]
 (https://img.shields.io/badge/GitLab-%E60026.svg?style=for-the-badge&logo=GitLab&logoColor=orange) ![Jenkins]
-(https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=Jenkins&logoColor=Red)
+(https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=Jenkins&logoColor=Red) !
  
 
 
