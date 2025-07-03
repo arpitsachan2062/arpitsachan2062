@@ -14,23 +14,94 @@ My background in Java development and cloud infrastructure enables me to provide
 ![](https://raw.githubusercontent.com/prakhar105/prakhar105/output/github-contribution-grid-snake.svg)<br/>
 
 # 💻 Tech Stack:
-<h3>🧠 Programming Languages</h3>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<h2>💻 Tech Stack:</h2>
 
-<h3>☁️ Cloud Platforms</h3>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+</p>
 
-<h3>🚀 AWS Services</h3>
-<img src="https://img.shields.io/badge/EC2-FF8000.svg?style=for-the-badge&logo=EC2&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-FF8000.svg?style=for-the-badge&logo=RDS&logoColor=white"/> <img src="https://img.shields.io/badge/S3-00E600.svg?style=for-the-badge&logo=S3&logoColor=white"/> <img src="https://img.shields.io/badge/EKS-FF8000.svg?style=for-the-badge&logo=EKS&logoColor=white"/> <img src="https://img.shields.io/badge/ECS-FF8000.svg?style=for-the-badge&logo=ECS&logoColor=white"/>
+<p align="left">
+  <!-- Cloud Platforms -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
-<h3>🐳 Containers & Linux Distros</h3>
-<img src="https://img.shields.io/badge/Minikube-0099E6.svg?style=for-the-badge&logo=Minikube&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Kubernetes-%23323330.svg?style=for-the-badge&logo=Kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/UBUNTU-4019FF.svg?style=for-the-badge&logo=Ubuntu&logoColor=orange"/> <img src="https://img.shields.io/badge/Rocky%20Linux-FFFF00.svg?style=for-the-badge&logo=Rocky%20Linux&logoColor=orange"/> <img src="https://img.shields.io/badge/Red%20Hat%20Linux-FFFF00.svg?style=for-the-badge&logo=Red%20Hat%20Linux&logoColor=orange"/> <img src="https://img.shields.io/badge/LINUX-%19FF40.svg?style=for-the-badge&logo=LINUX&logoColor=RED"/>
+<p align="left">
+  <!-- AWS Services -->
+  <img src="https://img.shields.io/badge/EC2-FF8000.svg?style=for-the-badge&logo=EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-FF8000.svg?style=for-the-badge&logo=RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-00E600.svg?style=for-the-badge&logo=S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS-FF8000.svg?style=for-the-badge&logo=ECS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-FF8000.svg?style=for-the-badge&logo=EKS&logoColor=white"/>
+</p>
 
-<h3>🛢️ Databases</h3>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostGres-4479A1.svg?style=for-the-badge&logo=PostGres&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<p align="left">
+  <!-- Containers & OS -->
+  <img src="https://img.shields.io/badge/Minikube-0099E6.svg?style=for-the-badge&logo=Minikube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23323330.svg?style=for-the-badge&logo=Kubernetes&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Ubuntu-4019FF.svg?style=for-the-badge&logo=Ubuntu&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Rocky%20Linux-FFFF00.svg?style=for-the-badge&logo=Rocky%20Linux&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Red%20Hat%20Linux-FFFF00.svg?style=for-the-badge&logo=Red%20Hat%20Linux&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/LINUX-%19FF40.svg?style=for-the-badge&logo=LINUX&logoColor=RED"/>
+</p>
 
-<h3>🔧 DevOps & Tools</h3>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>  <img src="https://img.shields.io/badge/salesforce-E60026?style=for-the-badge&logo=SF&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCv-000000?style=for-the-badge&logo=OpenCV&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-%FF0000.svg?style=for-the-badge&logo=JIRA&logoColor=blue"/> <img src="https://img.shields.io/badge/GitLab-%E60026.svg?style=for-the-badge&logo=GitLab&logoColor=orange"/> <img src="https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=Jenkins&logoColor=Red"/> <img src="https://img.shields.io/badge/Docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=blue"/> <img src="https://img.shields.io/badge/LINUX-%19FF40.svg?style=for-the-badge&logo=LINUX&logoColor=RED"/> <img src="https://img.shields.io/badge/Ubuntu-4019FF.svg?style=for-the-badge&logo=Ubuntu&logoColor=orange"/> <img src="https://img.shields.io/badge/Rocky%20Linux-FFFF00.svg?style=for-the-badge&logo=Rocky%20Linux&logoColor=orange"/> <img src="https://img.shields.io/badge/Red%20Hat%20Linux-FFFF00.svg?style=for-the-badge&logo=Red%20Hat%20Linux&logoColor=orange"/> <img src="https://img.shields.io/badge/Kubernetes-%23323330.svg?style=for-the-badge&logo=Kubernetes&logoColor=blue"/>  <img src="https://img.shields.io/badge/BitBucket-%23323330.svg?style=for-the-badge&logo=BitBucket&logoColor=blue"/> <img src="https://img.shields.io/badge/Perforce-%24325530.svg?style=for-the-badge&logo=Perforce&logoColor=blue"/> <img src="https://img.shields.io/badge/BurpSuite-%12354530.svg?style=for-the-badge&logo=BurpSuite&logoColor=orange"/> <img src="https://img.shields.io/badge/Dbeaver-4019FF.svg?style=for-the-badge&logo=Dbeaver&logoColor=orange"/> <img src="https://img.shields.io/badge/SAML-FFFF00.svg?style=for-the-badge&logo=SAML&logoColor=orange"/> <img src="https://img.shields.io/badge/HAR-E60026.svg?style=for-the-badge&logo=HAR&logoColor=orange"/> <img src="https://img.shields.io/badge/WireShark-E60026.svg?style=for-the-badge&logo=WireShark&logoColor=blue"/> <img src="https://img.shields.io/badge/Zephyr%20Enterprise-001580.svg?style=for-the-badge&logo=Zephyr%20Enterprise&logoColor=blue"/> <img src="https://img.shields.io/badge/QAComplete-33BBFF.svg?style=for-the-badge&logo=QAComplete&logoColor=blue"/> <img src="https://img.shields.io/badge/Collaborator-33BBFF.svg?style=for-the-badge&logo=Collaborator&logoColor=blue"/> <img src="https://img.shields.io/badge/ELASTIC%20SEARCH-33BBFF.svg?style=for-the-badge&logo=ELASTIC%20SEARCH&logoColor=blue"/> <img src="https://img.shields.io/badge/Grafana-FF1966.svg?style=for-the-badge&logo=Grafana&logoColor=Orange"/> <img src="https://img.shields.io/badge/Kibana-FF1966.svg?style=for-the-badge&logo=Kibana&logoColor=Orange"/> <img src="https://img.shields.io/badge/Rancher-00CC00.svg?style=for-the-badge&logo=Rancher&logoColor=Black"/> <img src="https://img.shields.io/badge/Prometheus-00CC00.svg?style=for-the-badge&logo=Prometheus&logoColor=Black"/>
+<p align="left">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGres-4479A1.svg?style=for-the-badge&logo=PostGres&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- DevOps Tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BitBucket-%23323330.svg?style=for-the-badge&logo=BitBucket&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23ED8B00.svg?style=for-the-badge&logo=Jenkins&logoColor=Red"/>
+  <img src="https://img.shields.io/badge/Perforce-%24325530.svg?style=for-the-badge&logo=Perforce&logoColor=blue"/>
+</p>
+
+<p align="left">
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/SAML-FFFF00.svg?style=for-the-badge&logo=SAML&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/HAR-E60026.svg?style=for-the-badge&logo=HAR&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/WireShark-E60026.svg?style=for-the-badge&logo=WireShark&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/BurpSuite-%12354530.svg?style=for-the-badge&logo=BurpSuite&logoColor=orange"/>
+</p>
+
+<p align="left">
+  <!-- QA Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-%FF0000.svg?style=for-the-badge&logo=JIRA&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Zephyr%20Enterprise-001580.svg?style=for-the-badge&logo=Zephyr%20Enterprise&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/QAComplete-33BBFF.svg?style=for-the-badge&logo=QAComplete&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Collaborator-33BBFF.svg?style=for-the-badge&logo=Collaborator&logoColor=blue"/>
+</p>
+
+<p align="left">
+  <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/ELASTIC%20SEARCH-33BBFF.svg?style=for-the-badge&logo=ELASTIC%20SEARCH&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Grafana-FF1966.svg?style=for-the-badge&logo=Grafana&logoColor=Orange"/>
+  <img src="https://img.shields.io/badge/Kibana-FF1966.svg?style=for-the-badge&logo=Kibana&logoColor=Orange"/>
+  <img src="https://img.shields.io/badge/Prometheus-00CC00.svg?style=for-the-badge&logo=Prometheus&logoColor=Black"/>
+  <img src="https://img.shields.io/badge/Rancher-00CC00.svg?style=for-the-badge&logo=Rancher&logoColor=Black"/>
+</p>
+
+<p align="left">
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/OpenCv-000000?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dbeaver-4019FF.svg?style=for-the-badge&logo=Dbeaver&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/salesforce-E60026?style=for-the-badge&logo=SF&logoColor=white"/>
+</p>
+
 
 
 
