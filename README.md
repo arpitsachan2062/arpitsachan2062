@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 --->
 # 💫 About Me:
-I’m a passionate and results-driven Product Support Engineer with a strong foundation in AWS, DevOps, Java, and AI technologies. With hands-on experience in troubleshooting complex issues, optimizing product performance, and collaborating with cross-functional teams, I thrive at the intersection of technology and customer success.
+I’m a passionate and results-driven Product Engineer with a strong foundation in AWS, DevOps, Java, and AI technologies. With hands-on experience in troubleshooting complex issues, optimizing product performance, and collaborating with cross-functional teams, I thrive at the intersection of technology and customer success.
 
 My background in Java development and cloud infrastructure enables me to provide deep technical insights, while my familiarity with AI and automation helps me drive smarter, more scalable support solutions. I'm always eager to learn, improve systems, and ensure seamless user experiences.🎉 **Fun fact:** I’m fascinated by the intersection of art and AI, especially generative models that create unique visuals.
 
